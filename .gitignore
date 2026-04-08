@@ -1,1 +1,5 @@
 is310-venv/
+older-python-env/
+api-getting-data/.env
+.env/
+api-getting-data/.env/
