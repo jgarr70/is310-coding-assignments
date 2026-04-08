@@ -1,0 +1,934 @@
+{
+    "top_tracks": [
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+                        "id": "1mYsTxnqsietFxj1OgoGbG",
+                        "name": "A.R. Rahman",
+                        "type": "artist",
+                        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GnnSrwNCGyfAU4zuIytiS",
+                        "id": "5GnnSrwNCGyfAU4zuIytiS",
+                        "name": "Mohit Chauhan",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2K9nbaz5q8FpSEajKMlVeH",
+                        "id": "2K9nbaz5q8FpSEajKMlVeH",
+                        "name": "Balaji",
+                        "type": "artist",
+                        "uri": "spotify:artist:2K9nbaz5q8FpSEajKMlVeH"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+                },
+                "href": "https://api.spotify.com/v1/albums/0TPPDwOjtkFRgBiStpUEMO",
+                "id": "0TPPDwOjtkFRgBiStpUEMO",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27332205123b55089a0b3083a32",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0232205123b55089a0b3083a32",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485132205123b55089a0b3083a32",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+                "release_date": "2025-11-07",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:0TPPDwOjtkFRgBiStpUEMO"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+                    "id": "1mYsTxnqsietFxj1OgoGbG",
+                    "name": "A.R. Rahman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5GnnSrwNCGyfAU4zuIytiS",
+                    "id": "5GnnSrwNCGyfAU4zuIytiS",
+                    "name": "Mohit Chauhan",
+                    "type": "artist",
+                    "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2K9nbaz5q8FpSEajKMlVeH",
+                    "id": "2K9nbaz5q8FpSEajKMlVeH",
+                    "name": "Balaji",
+                    "type": "artist",
+                    "uri": "spotify:artist:2K9nbaz5q8FpSEajKMlVeH"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 273072,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "INS182504135"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+            },
+            "href": "https://api.spotify.com/v1/tracks/41GTIflnHCWqHgYq7israx",
+            "id": "41GTIflnHCWqHgYq7israx",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:41GTIflnHCWqHgYq7israx"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+                        "id": "45dkTj5sMRSjrmBSBeiHym",
+                        "name": "Tate McRae",
+                        "type": "artist",
+                        "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+                },
+                "href": "https://api.spotify.com/v1/albums/4AIX5TN8oT656mgxRwDevJ",
+                "id": "4AIX5TN8oT656mgxRwDevJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c40dccc1952bb5ed96986869",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c40dccc1952bb5ed96986869",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "SO CLOSE TO WHAT??? (deluxe)",
+                "release_date": "2025-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 21,
+                "type": "album",
+                "uri": "spotify:album:4AIX5TN8oT656mgxRwDevJ"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+                    "id": "45dkTj5sMRSjrmBSBeiHym",
+                    "name": "Tate McRae",
+                    "type": "artist",
+                    "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 182017,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USRC12502273"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7AxXJXqJOMRqkgZxvG3r6E",
+            "id": "7AxXJXqJOMRqkgZxvG3r6E",
+            "is_local": false,
+            "is_playable": true,
+            "name": "TRYING ON SHOES",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7AxXJXqJOMRqkgZxvG3r6E"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                        "name": "Ty Dolla $ign",
+                        "type": "artist",
+                        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
+                },
+                "href": "https://api.spotify.com/v1/albums/6sOJ6rEt2KO0j7aLoNMLaK",
+                "id": "6sOJ6rEt2KO0j7aLoNMLaK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273712be553f73989a1b7607674",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02712be553f73989a1b7607674",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "TYCOON",
+                "release_date": "2025-10-17",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:6sOJ6rEt2KO0j7aLoNMLaK"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                    "name": "Ty Dolla $ign",
+                    "type": "artist",
+                    "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+                    "id": "0VRj0yCOv2FXJNP47XQnx5",
+                    "name": "Quavo",
+                    "type": "artist",
+                    "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gCRApTajqwbnHHPbr2Fpi",
+                    "id": "5gCRApTajqwbnHHPbr2Fpi",
+                    "name": "Juicy J",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gCRApTajqwbnHHPbr2Fpi"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 132485,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT22504301"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4YmsnZcxHEGEqHB3K0vdt0",
+            "id": "4YmsnZcxHEGEqHB3K0vdt0",
+            "is_local": false,
+            "is_playable": true,
+            "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:4YmsnZcxHEGEqHB3K0vdt0"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4gvjmrtzydbMpyJaXUtwvP",
+                        "id": "4gvjmrtzydbMpyJaXUtwvP",
+                        "name": "Addison Rae",
+                        "type": "artist",
+                        "uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+                },
+                "href": "https://api.spotify.com/v1/albums/0XA403JTounqFh2owquBXu",
+                "id": "0XA403JTounqFh2owquBXu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273316905a371bd81c2eca8a24f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02316905a371bd81c2eca8a24f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851316905a371bd81c2eca8a24f",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Diet Pepsi",
+                "release_date": "2024-08-09",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:0XA403JTounqFh2owquBXu"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gvjmrtzydbMpyJaXUtwvP",
+                    "id": "4gvjmrtzydbMpyJaXUtwvP",
+                    "name": "Addison Rae",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 169697,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM12405456"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6MzofobZt2dm0Kf1hTThFz",
+            "id": "6MzofobZt2dm0Kf1hTThFz",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Diet Pepsi",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6MzofobZt2dm0Kf1hTThFz"
+        },
+        {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0GSuGuz8CIQpRZdig9k9Mt"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0GSuGuz8CIQpRZdig9k9Mt",
+                        "id": "0GSuGuz8CIQpRZdig9k9Mt",
+                        "name": "Cast of Mamma Mia! The Movie",
+                        "type": "artist",
+                        "uri": "spotify:artist:0GSuGuz8CIQpRZdig9k9Mt"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
+                },
+                "href": "https://api.spotify.com/v1/albums/6QtnCAFmqOwR75jOOmU7k9",
+                "id": "6QtnCAFmqOwR75jOOmU7k9",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ddc54feece71dda4290d0579",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ddc54feece71dda4290d0579",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ddc54feece71dda4290d0579",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Mamma Mia! The Movie Soundtrack",
+                "release_date": "2008-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:6QtnCAFmqOwR75jOOmU7k9"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HB65P72dFRiOKvbLLcil2",
+                    "id": "2HB65P72dFRiOKvbLLcil2",
+                    "name": "Meryl Streep",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HB65P72dFRiOKvbLLcil2"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 297933,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBUM70809223"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4uytiW8D73yWQHkg1PzYlB"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4uytiW8D73yWQHkg1PzYlB",
+            "id": "4uytiW8D73yWQHkg1PzYlB",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Winner Takes It All - From \"Mamma Mia!\"",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:4uytiW8D73yWQHkg1PzYlB"
+        }
+    ],
+    "liked_songs": [
+        {
+            "added_at": "2026-03-28T00:44:57Z",
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+                            "id": "1mYsTxnqsietFxj1OgoGbG",
+                            "name": "A.R. Rahman",
+                            "type": "artist",
+                            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2G7JyChJHrZYCBb0jL2N5t",
+                    "id": "2G7JyChJHrZYCBb0jL2N5t",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273dd925e4c74ea7c9cbc9e39fd"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02dd925e4c74ea7c9cbc9e39fd"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851dd925e4c74ea7c9cbc9e39fd"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Bigil (Original Motion Picture Soundtrack)",
+                    "release_date": "2019-09-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 5,
+                    "type": "album",
+                    "uri": "spotify:album:2G7JyChJHrZYCBb0jL2N5t"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+                        "id": "1mYsTxnqsietFxj1OgoGbG",
+                        "name": "A.R. Rahman",
+                        "type": "artist",
+                        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6EI5lmCSICOvroaH1bTwEj",
+                        "id": "6EI5lmCSICOvroaH1bTwEj",
+                        "name": "Sreekanth Hariharan",
+                        "type": "artist",
+                        "uri": "spotify:artist:6EI5lmCSICOvroaH1bTwEj"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6wrAB0HbjDGDXp0GdvqJqq",
+                        "id": "6wrAB0HbjDGDXp0GdvqJqq",
+                        "name": "Madhura Dhara Talluri",
+                        "type": "artist",
+                        "uri": "spotify:artist:6wrAB0HbjDGDXp0GdvqJqq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/34alE9zN7dTT9s6s1j8bJC",
+                        "id": "34alE9zN7dTT9s6s1j8bJC",
+                        "name": "Vivek",
+                        "type": "artist",
+                        "uri": "spotify:artist:34alE9zN7dTT9s6s1j8bJC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 266053,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "INS171903158"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5RR6Q4yCrbGiRCU5YbpNaY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5RR6Q4yCrbGiRCU5YbpNaY",
+                "id": "5RR6Q4yCrbGiRCU5YbpNaY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Unakaga",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5RR6Q4yCrbGiRCU5YbpNaY"
+            }
+        },
+        {
+            "added_at": "2026-02-17T23:58:03Z",
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1dy5WNgIKQU6ezkpZs4y8z",
+                            "id": "1dy5WNgIKQU6ezkpZs4y8z",
+                            "name": "ROLE MODEL",
+                            "type": "artist",
+                            "uri": "spotify:artist:1dy5WNgIKQU6ezkpZs4y8z"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4OZ6nCbn8w0cHr1m0qiD2s",
+                    "id": "4OZ6nCbn8w0cHr1m0qiD2s",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27317cb032bf1840aae7efa3859"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0217cb032bf1840aae7efa3859"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485117cb032bf1840aae7efa3859"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Kansas Anymore",
+                    "release_date": "2024-07-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4OZ6nCbn8w0cHr1m0qiD2s"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1dy5WNgIKQU6ezkpZs4y8z",
+                        "id": "1dy5WNgIKQU6ezkpZs4y8z",
+                        "name": "ROLE MODEL",
+                        "type": "artist",
+                        "uri": "spotify:artist:1dy5WNgIKQU6ezkpZs4y8z"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 163458,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM72404559"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6Op1AAvS0Jb3Gbom92zadJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6Op1AAvS0Jb3Gbom92zadJ",
+                "id": "6Op1AAvS0Jb3Gbom92zadJ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Look At That Woman",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6Op1AAvS0Jb3Gbom92zadJ"
+            }
+        },
+        {
+            "added_at": "2026-02-17T23:57:45Z",
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
+                            "id": "4tuJ0bMpJh08umKkEXKUI5",
+                            "name": "Gracie Abrams",
+                            "type": "artist",
+                            "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4XXTsu7r9865VvXdvF2iQP",
+                    "id": "4XXTsu7r9865VvXdvF2iQP",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514ba1c73e08db2c003a78e148"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "The Secret of Us",
+                    "release_date": "2024-06-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4XXTsu7r9865VvXdvF2iQP"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
+                        "id": "4tuJ0bMpJh08umKkEXKUI5",
+                        "name": "Gracie Abrams",
+                        "type": "artist",
+                        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191586,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUG12401764"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5JiU3gLHz9AvUnrhXgOmos",
+                "id": "5JiU3gLHz9AvUnrhXgOmos",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Risk",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5JiU3gLHz9AvUnrhXgOmos"
+            }
+        },
+        {
+            "added_at": "2026-02-17T02:04:42Z",
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1dy5WNgIKQU6ezkpZs4y8z",
+                            "id": "1dy5WNgIKQU6ezkpZs4y8z",
+                            "name": "ROLE MODEL",
+                            "type": "artist",
+                            "uri": "spotify:artist:1dy5WNgIKQU6ezkpZs4y8z"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5gZFprukMkMJiEKEgf3q1f",
+                    "id": "5gZFprukMkMJiEKEgf3q1f",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ff9e807b292a861ded756d63"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ff9e807b292a861ded756d63"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ff9e807b292a861ded756d63"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Kansas Anymore (The Longest Goodbye)",
+                    "release_date": "2025-02-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:5gZFprukMkMJiEKEgf3q1f"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1dy5WNgIKQU6ezkpZs4y8z",
+                        "id": "1dy5WNgIKQU6ezkpZs4y8z",
+                        "name": "ROLE MODEL",
+                        "type": "artist",
+                        "uri": "spotify:artist:1dy5WNgIKQU6ezkpZs4y8z"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 217263,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM72500707"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6fjl6Ekn2hE7U9TLJ8teY0",
+                "id": "6fjl6Ekn2hE7U9TLJ8teY0",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Some Protector",
+                "track_number": 16,
+                "type": "track",
+                "uri": "spotify:track:6fjl6Ekn2hE7U9TLJ8teY0"
+            }
+        },
+        {
+            "added_at": "2026-02-03T00:52:48Z",
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+                            "id": "2HPaUgqeutzr3jx5a9WyDV",
+                            "name": "PARTYNEXTDOOR",
+                            "type": "artist",
+                            "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                            "id": "3TVXtAsR1Inumwj472S9r4",
+                            "name": "Drake",
+                            "type": "artist",
+                            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+                    "id": "6Rl6YoCarF2GHPSQmmFjuR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "$ome $exy $ongs 4 U",
+                    "release_date": "2025-02-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                        "id": "3TVXtAsR1Inumwj472S9r4",
+                        "name": "Drake",
+                        "type": "artist",
+                        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 241023,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USLD91772032"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2u9S9JJ6hTZS3Vf22HOZKg",
+                "id": "2u9S9JJ6hTZS3Vf22HOZKg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "NOKIA",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:2u9S9JJ6hTZS3Vf22HOZKg"
+            }
+        }
+    ],
+    "europeana_beatles": [
+        {
+            "id": "http://data.europeana.eu/agent/146933",
+            "type": "Agent",
+            "isShownBy": {
+                "id": "http://mm.dimu.no/image/04UzryaSp5?dimension=800x800",
+                "type": "WebResource",
+                "source": "http://data.europeana.eu/item/2022608/NF_NF_2008_0014",
+                "thumbnail": "https://api.europeana.eu/api/v2/thumbnail-by-url.json?uri=http%3A%2F%2Fmm.dimu.no%2Fimage%2F04UzryaSp5%3Fdimension%3D800x800&type=IMAGE"
+            },
+            "prefLabel": {
+                "bg": "\u0411\u0438\u0439\u0442\u044a\u043b\u0441"
+            },
+            "altLabel": {
+                "ca": [
+                    "Els Beatles"
+                ],
+                "cs": [
+                    "Brouci"
+                ],
+                "de": [
+                    "Die Beatles",
+                    "Pilzk\u00f6pfe"
+                ],
+                "el": [
+                    "\u039c\u03c0\u03b9\u03c4\u03bb\u03c2"
+                ],
+                "en": [
+                    "John, Paul, George, and Ringo",
+                    "The Beetles",
+                    "The Silver Beetles",
+                    "The Silver Beatles",
+                    "Beatals"
+                ],
+                "es": [
+                    "Los Beatles"
+                ],
+                "et": [
+                    "Biitlid"
+                ],
+                "fr": [
+                    "Les Beatles"
+                ],
+                "it": [
+                    "I Beatles"
+                ],
+                "nl": [
+                    "De Beatles"
+                ],
+                "pl": [
+                    "Czw\u00f3rka z Liverpoolu",
+                    "John, Paul, George i Ringo"
+                ],
+                "ru": [
+                    "\u0411\u0438\u0442\u043b\u0437",
+                    "\u0411\u0438\u0442\u043b\u0441",
+                    "\u0411\u0438\u0442\u043b\u044b",
+                    "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u0427\u0435\u0442\u0432\u0451\u0440\u043a\u0430",
+                    "\u0411\u0438\u0442\u043b\u0441\u044b"
+                ]
+            }
+        }
+    ]
+}

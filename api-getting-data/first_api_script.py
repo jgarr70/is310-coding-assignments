@@ -1,5 +1,7 @@
 import os
 import requests
+from rich import print as rprint
+
 
 ## LOTR API
 #
@@ -42,8 +44,30 @@ load_dotenv()
 
 import pyeuropeana.apis as apis
 
+# response = apis.entity.suggest(
+#    text = 'Tolkien',
+#    TYPE = 'agent',
+# )
+# print('tolkien', response)
+
 response = apis.entity.suggest(
-   text = 'Tolkien',
-   TYPE = 'agent',
+   text = 'The Beatles',
+   type = 'agent' # Search for people/groups
 )
-print('tolkien', response)
+
+rprint(response['items']) # View first 3 suggestions
+for item in response['items'][:4]:
+    # 1. Get the main ID
+    print(f"ID: {item['id']}")
+    
+    # 2. Get the Bulgarian name (since it's the only one in prefLabel here)
+    main_name = item['prefLabel'].get('bg', 'No Name')
+    print(f"Main Name: {main_name}")
+    
+    # 3. Get all the English nicknames and join them with a comma
+    en_aliases = item['altLabel'].get('en', [])
+    print(f"English Nicknames: {', '.join(en_aliases)}")
+    
+    # 4. Get the image URL
+    image = item['isShownBy']['id']
+    print(f"Image Link: {image}")
